@@ -1,0 +1,17 @@
+D:\C# Local Code\MyBlog\MyBlog.Repository\bin\Debug\net5.0\MyBlog.IRepository.dll
+D:\C# Local Code\MyBlog\MyBlog.Repository\bin\Debug\net5.0\MyBlog.Model.dll
+D:\C# Local Code\MyBlog\MyBlog.Repository\obj\Debug\net5.0\MyBlog.Repository.csprojAssemblyReference.cache
+D:\C# Local Code\MyBlog\MyBlog.Repository\obj\Debug\net5.0\MyBlog.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Local Code\MyBlog\MyBlog.Repository\obj\Debug\net5.0\MyBlog.Repository.AssemblyInfoInputs.cache
+D:\C# Local Code\MyBlog\MyBlog.Repository\obj\Debug\net5.0\MyBlog.Repository.AssemblyInfo.cs
+D:\C# Local Code\MyBlog\MyBlog.Repository\bin\Debug\net5.0\MyBlog.Repository.deps.json
+D:\C# Local Code\MyBlog\MyBlog.Repository\bin\Debug\net5.0\MyBlog.Repository.dll
+D:\C# Local Code\MyBlog\MyBlog.Repository\bin\Debug\net5.0\ref\MyBlog.Repository.dll
+D:\C# Local Code\MyBlog\MyBlog.Repository\bin\Debug\net5.0\MyBlog.Repository.pdb
+D:\C# Local Code\MyBlog\MyBlog.Repository\bin\Debug\net5.0\MyBlog.IRepository.pdb
+D:\C# Local Code\MyBlog\MyBlog.Repository\bin\Debug\net5.0\MyBlog.Model.pdb
+D:\C# Local Code\MyBlog\MyBlog.Repository\obj\Debug\net5.0\MyBlog.Repository.csproj.CoreCompileInputs.cache
+D:\C# Local Code\MyBlog\MyBlog.Repository\obj\Debug\net5.0\MyBlog.Repository.csproj.CopyComplete
+D:\C# Local Code\MyBlog\MyBlog.Repository\obj\Debug\net5.0\MyBlog.Repository.dll
+D:\C# Local Code\MyBlog\MyBlog.Repository\obj\Debug\net5.0\ref\MyBlog.Repository.dll
+D:\C# Local Code\MyBlog\MyBlog.Repository\obj\Debug\net5.0\MyBlog.Repository.pdb

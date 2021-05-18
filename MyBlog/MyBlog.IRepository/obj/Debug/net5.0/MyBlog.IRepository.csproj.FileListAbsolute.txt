@@ -1,0 +1,15 @@
+D:\C# Local Code\MyBlog\MyBlog.IRepository\bin\Debug\net5.0\MyBlog.IRepository.deps.json
+D:\C# Local Code\MyBlog\MyBlog.IRepository\bin\Debug\net5.0\MyBlog.IRepository.dll
+D:\C# Local Code\MyBlog\MyBlog.IRepository\bin\Debug\net5.0\ref\MyBlog.IRepository.dll
+D:\C# Local Code\MyBlog\MyBlog.IRepository\bin\Debug\net5.0\MyBlog.IRepository.pdb
+D:\C# Local Code\MyBlog\MyBlog.IRepository\bin\Debug\net5.0\MyBlog.Model.dll
+D:\C# Local Code\MyBlog\MyBlog.IRepository\bin\Debug\net5.0\MyBlog.Model.pdb
+D:\C# Local Code\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.csprojAssemblyReference.cache
+D:\C# Local Code\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Local Code\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.AssemblyInfoInputs.cache
+D:\C# Local Code\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.AssemblyInfo.cs
+D:\C# Local Code\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.csproj.CoreCompileInputs.cache
+D:\C# Local Code\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.csproj.CopyComplete
+D:\C# Local Code\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.dll
+D:\C# Local Code\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\ref\MyBlog.IRepository.dll
+D:\C# Local Code\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.pdb
